@@ -1,7 +1,7 @@
 - <h1> Hi 👋, I'm Kübra</h1>
 
 <img src = "https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif?cid=ecf05e47a8p8qe6u0ee10ynepeyspphhm63ewcvjlh1m5mqv&rid=giphy.gif&ct=g" width="350" alt = '' align='right'/> 
-- A computer engineer student from Cumhuriyet University
+- A computer engineer master student from Cumhuriyet University
 
 - 🌱 I’m currently learning **Android Development**
 
